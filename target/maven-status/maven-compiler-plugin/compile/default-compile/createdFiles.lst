@@ -1,0 +1,14 @@
+com/fairfax/utility/StringUtility.class
+com/fairfax/controller/ArticleController.class
+com/fairfax/Application.class
+com/fairfax/constants/ConfigConstants.class
+com/fairfax/repository/ArticleRepositoryCustom.class
+com/fairfax/entity/Article.class
+com/fairfax/exception/ResourceNotFoundException.class
+com/fairfax/exception/RestResponseEntityExceptionHandler.class
+com/fairfax/dto/TagResult.class
+com/fairfax/repository/ArticleRepository.class
+com/fairfax/service/ArticleService.class
+com/fairfax/exception/ErrorResponse.class
+com/fairfax/constants/ErrorConstants.class
+com/fairfax/repository/ArticleRepositoryImpl.class

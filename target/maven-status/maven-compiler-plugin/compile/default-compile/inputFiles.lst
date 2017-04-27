@@ -1,0 +1,14 @@
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/controller/ArticleController.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/constants/ErrorConstants.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/exception/ErrorResponse.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/utility/StringUtility.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/constants/ConfigConstants.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/exception/ResourceNotFoundException.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/exception/RestResponseEntityExceptionHandler.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/Application.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/service/ArticleService.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/dto/TagResult.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/repository/ArticleRepositoryCustom.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/repository/ArticleRepositoryImpl.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/repository/ArticleRepository.java
+/Harmony/Projects/Software/Assignments/FairFax/ArticleWebService/src/main/java/com/fairfax/entity/Article.java
