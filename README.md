@@ -8,7 +8,7 @@ This service is a RESTful API with the following endpoints:
 # Installation instructions
   - You would need Java 8
   - An executable jar, fairfax-article-service-0.1.0.jar, is included in the target directory of the repository. To run the service, navigate to the root (where this ReadMe exists) on your terminal and run "java -jar fairfax-article-service-0.1.0.jar" (without quotes)
-  - [Optional] If you would like to build and run the service, you would need Maven, run "mvn clean package" and "java -jar fairfax-article-service-0.1.0.jar" (without quotes)
+  - [Optional] If you would like to build and run the service, you would need Maven, run "mvn clean package" and "java -jar target/fairfax-article-service-0.1.0.jar" (without quotes)
 
 # Solution Description
 
@@ -58,5 +58,5 @@ Any testing strategy should include a way of automating execution of test cases.
   - I've presumed that I could use a SQL database instead of a NoSQL one. It would have taken a lot more work in design and data modelling if a NoSQL database was used.
 
 # Time taken
-Excluding documentation, it took a little over 3 hours (cumulatively) to complete this exercise.
+Excluding documentation, it took a little about  3.5 hours (cumulatively) to complete this exercise.
 
