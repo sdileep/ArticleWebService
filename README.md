@@ -7,7 +7,7 @@ This service is a RESTful API with the following endpoints:
 
 # Installation instructions
   - You would need Java 8
-  - An executable jar, fairfax-article-service-0.1.0.jar, is included in the target directory of the repository. To run the service, navigate to the root (where this ReadMe exists) on your terminal and run "java -jar fairfax-article-service-0.1.0.jar" (without quotes)
+  - An executable jar, fairfax-article-service-0.1.0.jar, is included in the target directory of the repository. To run the service, navigate to the root (where this ReadMe exists) on your terminal and run "java -jar target/fairfax-article-service-0.1.0.jar" (without quotes)
   - [Optional] If you would like to build and run the service, you would need Maven, run "mvn clean package" and "java -jar target/fairfax-article-service-0.1.0.jar" (without quotes)
 
 # Solution Description
